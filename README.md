@@ -18,3 +18,13 @@ Los ADRs ayudan a mantener un **historial claro** de las decisiones, útil para 
 ## ⚡ Cómo agregar un nuevo ADR
 
 1. Crear un archivo nuevo en `docs/decisions` con el formato:
+
+## MIEMBROS DEL EQUIPO
+
+- Víctor Oliveira Petrocelli
+
+- Ramón Nieto Villegas
+
+- Marcos Hernández Martín
+
+- Daniel Hernanz Corral
