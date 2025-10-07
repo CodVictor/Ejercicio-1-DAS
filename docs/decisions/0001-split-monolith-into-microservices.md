@@ -1,5 +1,7 @@
 # 1. Elección del framework frontend
 
+## Context and Problem Statement
+
 ## Estado
 Propuesta
 
@@ -12,3 +14,7 @@ Elegimos React por su popularidad, facilidad de integración y experiencia del e
 ## Consecuencias
 - Positivo: Comunidad grande, muchas librerías, fácil encontrar talento.
 - Negativo: Curva de aprendizaje para nuevos miembros que no conocen React.
+
+## Decision Outcome
+
+Chosen option: ""
