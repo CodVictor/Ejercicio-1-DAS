@@ -28,3 +28,7 @@ Los ADRs ayudan a mantener un **historial claro** de las decisiones, útil para 
 - Marcos Hernández Martín
 
 - Daniel Hernanz Corral
+
+- Gonzalo Fernández de Cordoba
+
+- Rodrigo Fernández de Cordoba
