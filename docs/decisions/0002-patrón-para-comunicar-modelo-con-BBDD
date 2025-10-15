@@ -1,0 +1,16 @@
+# Patrón para comunicar modelo con BBDD
+
+* Status: proposed
+* Date: 2025-10-15
+
+## Context and Problem Statement
+
+Se necesita definir cómo conectar los algoritmos de los microservicios con las bases de datos SQL y MongoDB
+
+## Considered Options
+
+*Patrón adapter
+
+## Decision Outcome
+
+Chosen option: "Patrón adapter", because es un patrón definido y probado, que además permite enfocar las interacciones servicio-BBDD de forma intuitiva y sencilla.
