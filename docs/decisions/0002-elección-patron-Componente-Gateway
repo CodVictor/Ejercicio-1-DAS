@@ -1,0 +1,19 @@
+## Elección patrón de diseño para la implementación del componente gateway
+
+* Status: proposed
+* Date: 2025-10-15
+
+## Context and Problem Statement
+Los clientes se comunican con los microservicios mediante un componente Gateway
+
+
+## Considered Options
+-Patrón facade
+-Patron proxy
+
+
+## Chosen option
+Patron proxy
+
+## Decision Outcome
+Chosen option: "Patrón proxy",porque nos permite comunicar los microservicios con los clientes a través del componente gateway que actua como proxy.
