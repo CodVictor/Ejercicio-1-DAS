@@ -2,8 +2,6 @@
 
 Este proyecto utiliza **ADRs (Architectural Decision Records)** para registrar todas las decisiones importantes de arquitectura y tecnología. Cada ADR documenta una decisión tomada, el contexto, las alternativas consideradas y las consecuencias, manteniendo un historial claro y ordenado.
 
-## 📁 Estructura de carpetas
-
 ## 📝 ¿Qué es un ADR?
 
 Un **ADR (Architectural Decision Record)** es un documento que describe:
